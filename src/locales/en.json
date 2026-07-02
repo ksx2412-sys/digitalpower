@@ -1,0 +1,56 @@
+{
+  "nav": { "about": "About", "services": "Services", "process": "How we work", "work": "Portfolio", "contact": "Contact" },
+  "hero": {
+    "title1": "We come from all over the world.",
+    "title2": "We create solutions without borders.",
+    "lead": "We connect people, technology and creativity to support the growth of your business — no matter where you operate.",
+    "cta": "Book a free consultation"
+  },
+  "strip": ["Websites", "Marketing", "AI", "SEO", "Social Media", "Photo & Video", "Drone"],
+  "about": {
+    "eyebrow": "Who we are",
+    "title": "Global team. Shared vision.",
+    "p1": "Digital.Power is an international network of specialists from different parts of the world. We share a passion for technology, innovation and helping businesses grow.",
+    "p2": "Diversity is our strength. It lets us see wider, think bolder and build solutions that work.",
+    "values": ["Global perspective", "Mutual respect", "Innovation", "Top quality"],
+    "cardTitle": "Specialists from 20+ countries",
+    "cardText": "We work with the best to deliver solutions at the highest level."
+  },
+  "services": {
+    "eyebrow": "Our services",
+    "title": "Complete solutions for your business",
+    "more": "Learn more",
+    "items": [
+      { "title": "Websites", "text": "We design modern, fast and responsive websites. From concept to launch and ongoing care." },
+      { "title": "Marketing & Social Media", "text": "We build your brand's online presence and reach new customers." },
+      { "title": "AI & new technologies", "text": "We use artificial intelligence and automation to optimize processes and create new value." },
+      { "title": "Photo • Video • Drone", "text": "We produce professional video, photography and drone footage that gets attention." }
+    ]
+  },
+  "process": {
+    "eyebrow": "How we work",
+    "title": "Simple process. Real results.",
+    "caption": "Your success is our goal",
+    "steps": [
+      { "title": "Free consultation", "text": "We get to know your business, goals and expectations." },
+      { "title": "Strategy", "text": "We assemble the team and create an individual action plan." },
+      { "title": "Execution", "text": "We build the project with attention to every detail and keep you updated." },
+      { "title": "Growth", "text": "We analyze results and grow your business together." }
+    ]
+  },
+  "contact": {
+    "title": "Let's talk about your project",
+    "lead": "No matter where you run your business — we're ready to help you achieve more.",
+    "cta": "Contact us",
+    "emailLabel": "E-mail",
+    "whatsappLabel": "WhatsApp",
+    "teamLabel": "Global Team",
+    "teamText": "We work across time zones to be closer to you."
+  },
+  "footer": {
+    "copy": "© 2026 Digital.Power",
+    "tagline": "We come from all over the world. We create solutions without borders.",
+    "impressum": "Legal notice",
+    "privacy": "Privacy policy"
+  }
+}

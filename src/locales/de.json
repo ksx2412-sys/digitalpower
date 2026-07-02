@@ -1,0 +1,56 @@
+{
+  "nav": { "about": "Über uns", "services": "Leistungen", "process": "Arbeitsweise", "work": "Referenzen", "contact": "Kontakt" },
+  "hero": {
+    "title1": "Wir kommen aus der ganzen Welt.",
+    "title2": "Wir schaffen Lösungen ohne Grenzen.",
+    "lead": "Wir verbinden Menschen, Technologie und Kreativität, um das Wachstum Ihres Unternehmens zu fördern — egal, wo Sie tätig sind.",
+    "cta": "Kostenlose Beratung vereinbaren"
+  },
+  "strip": ["Webseiten", "Marketing", "KI", "SEO", "Social Media", "Foto & Video", "Drohne"],
+  "about": {
+    "eyebrow": "Wer wir sind",
+    "title": "Globales Team. Gemeinsame Vision.",
+    "p1": "Digital.Power ist ein internationales Netzwerk von Spezialisten aus verschiedenen Teilen der Welt. Uns verbindet die Leidenschaft für Technologie, Innovation und die Unterstützung von Unternehmen.",
+    "p2": "Vielfalt ist unsere Stärke. Sie lässt uns weiter blicken, mutiger denken und Lösungen schaffen, die funktionieren.",
+    "values": ["Globale Perspektive", "Gegenseitiger Respekt", "Innovation", "Höchste Qualität"],
+    "cardTitle": "Spezialisten aus über 20 Ländern",
+    "cardText": "Wir arbeiten mit den Besten zusammen, um Lösungen auf höchstem Niveau zu liefern."
+  },
+  "services": {
+    "eyebrow": "Unsere Leistungen",
+    "title": "Komplettlösungen für Ihr Unternehmen",
+    "more": "Mehr erfahren",
+    "items": [
+      { "title": "Webseiten", "text": "Wir gestalten moderne, schnelle und responsive Websites. Vom Entwurf bis zur Umsetzung und Betreuung." },
+      { "title": "Marketing & Social Media", "text": "Wir stärken das Image Ihrer Marke im Internet und erreichen neue Kunden." },
+      { "title": "KI & neue Technologien", "text": "Wir nutzen künstliche Intelligenz und Automatisierung, um Prozesse zu optimieren und neuen Mehrwert zu schaffen." },
+      { "title": "Foto • Video • Drohne", "text": "Wir erstellen professionelle Videos, Fotos und Drohnenaufnahmen, die Aufmerksamkeit erregen." }
+    ]
+  },
+  "process": {
+    "eyebrow": "Arbeitsweise",
+    "title": "Einfacher Prozess. Echte Ergebnisse.",
+    "caption": "Ihr Erfolg ist unser Ziel",
+    "steps": [
+      { "title": "Kostenlose Beratung", "text": "Wir lernen Ihr Unternehmen, Ihre Ziele und Erwartungen kennen." },
+      { "title": "Strategie", "text": "Wir stellen das Team zusammen und erstellen einen individuellen Aktionsplan." },
+      { "title": "Umsetzung", "text": "Wir realisieren das Projekt mit Blick fürs Detail und halten Sie über Fortschritte auf dem Laufenden." },
+      { "title": "Wachstum", "text": "Wir analysieren die Ergebnisse und entwickeln Ihr Unternehmen gemeinsam weiter." }
+    ]
+  },
+  "contact": {
+    "title": "Sprechen wir über Ihr Projekt",
+    "lead": "Egal, wo Sie Ihr Unternehmen führen — wir sind bereit, Ihnen zu mehr Erfolg zu verhelfen.",
+    "cta": "Kontaktieren Sie uns",
+    "emailLabel": "E-Mail",
+    "whatsappLabel": "WhatsApp",
+    "teamLabel": "Global Team",
+    "teamText": "Wir arbeiten in verschiedenen Zeitzonen, um näher bei Ihnen zu sein."
+  },
+  "footer": {
+    "copy": "© 2026 Digital.Power",
+    "tagline": "Wir kommen aus der ganzen Welt. Wir schaffen Lösungen ohne Grenzen.",
+    "impressum": "Impressum",
+    "privacy": "Datenschutz"
+  }
+}

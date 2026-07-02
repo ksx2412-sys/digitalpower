@@ -1,0 +1,56 @@
+{
+  "nav": { "about": "O nas", "services": "Usługi", "process": "Jak pracujemy", "work": "Realizacje", "contact": "Kontakt" },
+  "hero": {
+    "title1": "Pochodzimy z całego świata.",
+    "title2": "Tworzymy rozwiązania bez granic.",
+    "lead": "Łączymy ludzi, technologię i kreatywność, aby wspierać rozwój Twojego biznesu — niezależnie od miejsca, w którym działasz.",
+    "cta": "Umów bezpłatną konsultację"
+  },
+  "strip": ["Strony WWW", "Marketing", "AI", "SEO", "Social Media", "Foto & Video", "Dron"],
+  "about": {
+    "eyebrow": "Kim jesteśmy",
+    "title": "Globalny zespół. Wspólna wizja.",
+    "p1": "Digital.Power to międzynarodowa sieć specjalistów pochodzących z różnych stron świata. Łączy nas pasja do technologii, innowacji i pomagania firmom w rozwoju.",
+    "p2": "Różnorodność jest naszą siłą. Dzięki niej patrzymy szerzej, myślimy odważniej i tworzymy rozwiązania, które działają.",
+    "values": ["Globalna perspektywa", "Wzajemny szacunek", "Innowacje", "Najwyższa jakość"],
+    "cardTitle": "Specjaliści z ponad 20 krajów",
+    "cardText": "Współpracujemy z najlepszymi, aby dostarczać rozwiązania na najwyższym poziomie."
+  },
+  "services": {
+    "eyebrow": "Nasze usługi",
+    "title": "Kompleksowe rozwiązania dla Twojego biznesu",
+    "more": "Dowiedz się więcej",
+    "items": [
+      { "title": "Strony internetowe", "text": "Projektujemy nowoczesne, szybkie i responsywne strony WWW. Od projektu po wdrożenie i opiekę." },
+      { "title": "Marketing i Social Media", "text": "Budujemy wizerunek Twojej marki w internecie i docieramy do nowych klientów." },
+      { "title": "AI i nowe technologie", "text": "Wykorzystujemy sztuczną inteligencję i automatyzację, aby optymalizować procesy i tworzyć nową wartość." },
+      { "title": "Foto • Wideo • Dron", "text": "Tworzymy profesjonalne materiały wideo, zdjęcia i ujęcia z drona, które przyciągają uwagę." }
+    ]
+  },
+  "process": {
+    "eyebrow": "Jak pracujemy",
+    "title": "Prosty proces. Realne efekty.",
+    "caption": "Twój sukces jest naszym celem",
+    "steps": [
+      { "title": "Bezpłatna konsultacja", "text": "Poznajemy Twój biznes, cele i oczekiwania." },
+      { "title": "Strategia", "text": "Dobieramy zespół i tworzymy indywidualny plan działania." },
+      { "title": "Realizacja", "text": "Tworzymy projekt, dbając o każdy detal i informujemy Cię o postępach." },
+      { "title": "Rozwój", "text": "Analizujemy wyniki i wspólnie rozwijamy Twój biznes." }
+    ]
+  },
+  "contact": {
+    "title": "Porozmawiajmy o Twoim projekcie",
+    "lead": "Niezależnie od tego, gdzie prowadzisz swój biznes — jesteśmy gotowi pomóc Ci osiągnąć więcej.",
+    "cta": "Skontaktuj się z nami",
+    "emailLabel": "E-mail",
+    "whatsappLabel": "WhatsApp",
+    "teamLabel": "Global Team",
+    "teamText": "Pracujemy w różnych strefach czasowych, aby być bliżej Ciebie."
+  },
+  "footer": {
+    "copy": "© 2026 Digital.Power",
+    "tagline": "Pochodzimy z całego świata. Tworzymy rozwiązania bez granic.",
+    "impressum": "Impressum",
+    "privacy": "Polityka prywatności"
+  }
+}
